@@ -53,6 +53,9 @@ ev-website/
 ```
 
 Website Preview:
-preview.png
+<img width="1919" height="900" alt="Screenshot 2026-03-01 005231" src="https://github.com/user-attachments/assets/7e52be00-3466-4226-ac84-d922aca7c1dd" />
+
+<img width="1919" height="898" alt="Screenshot 2026-03-01 012316" src="https://github.com/user-attachments/assets/e4f19488-439f-4b79-a45c-81ce04093600" />
+
 
 
