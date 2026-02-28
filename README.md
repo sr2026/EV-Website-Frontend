@@ -52,6 +52,7 @@ ev-website/
 ├── vite.config.js
 ```
 
-image preview
-<img width="1919" height="898" alt="Screenshot 2026-03-01 012316" src="https://github.com/user-attachments/assets/8443d9b3-a8d6-4055-85e0-42d2b32ffb49" />
+Website Preview:
+preview.png
+
 
