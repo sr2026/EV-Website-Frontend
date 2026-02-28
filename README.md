@@ -1,22 +1,57 @@
-# EVolve Motors Website
+⚡ EV Website
 
-A modern EV-themed landing page built with React and Vite.
+A modern and responsive Electric Vehicle (EV) themed website built using **React** and **Vite**.
+This project showcases a clean landing page experience with background video integration, modular components, and responsive design.
 
-## Features
+📌 Overview
 
-- Rotating hero text slider
-- Manual slide controls (dot navigation)
-- Toggle between background video and image slides
-- Clean top navigation (Home, About, Services, Contact)
-- Smooth fade-in background transitions
+This is a front-end EV product website designed to simulate a real-world electric vehicle brand landing page.
 
-## Tech Stack
+The focus of this project:
 
-- React 19
-- Vite 7
-- CSS3
+* Building reusable React components
+* Creating a visually engaging hero section
+* Integrating background video properly
+* Maintaining clean project structure
+* Ensuring responsive layout across devices
 
-### Prerequisites
+🛠 Tech Stack
 
-- Node.js 18+ (recommended)
-- npm
+* React.js
+* Vite
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+
+✨ Features
+
+* Responsive landing page
+* Background video integration
+* Modular component-based architecture
+* Fast development environment using Vite
+* Organized asset management
+* Clean UI design
+
+ 📂 Project Structure
+
+ev-website/
+│
+├── public/
+├── src/
+│   ├── Assets/
+│   │   ├── images
+│   │   └── videos/
+│   ├── Components/
+│   │   ├── Background/
+│   │   ├── Navbar/
+│   │   ├── Hero/
+│   ├── App.jsx
+│   ├── main.jsx
+│
+├── package.json
+├── vite.config.js
+```
+
+image preview
+<img width="1919" height="898" alt="Screenshot 2026-03-01 012316" src="https://github.com/user-attachments/assets/8443d9b3-a8d6-4055-85e0-42d2b32ffb49" />
+
